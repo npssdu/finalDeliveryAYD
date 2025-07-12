@@ -416,7 +416,26 @@ This project was developed by students from **Universidad Distrital Francisco Jo
 - Systems Engineering Program
 - Research line: Artificial Intelligence and Machine Learning
 
-## 📋 Dependencies
+## � Project Documentation
+
+This repository includes comprehensive documentation about the project's development, methodology, and results:
+
+| Document | Description | Link |
+|----------|-------------|------|
+| **IEEE Paper** | Academic paper in IEEE format detailing the project methodology and results | [Final_Project_Paper_IEEE.pdf](documents/Final_Project_Paper_IEEE.pdf) |
+| **Technical Report** | Complete technical report with implementation details and analysis | [Final_Project_Technical_Report.pdf](documents/Final_Project_Technical_Report.pdf) |
+| **Project Presentation** | Presentation slides with project overview and demonstrations | [Final_Project_Presentation.pdf](documents/Final_Project_Presentation.pdf) |
+| **Poster** | Academic poster summarizing the project findings and contributions | [Final_Project_Poster.pdf](documents/Final_Project_Poster.pdf) |
+
+### 📖 Documentation Content
+
+- **Methodology**: Detailed explanation of the LLM integration approach
+- **Implementation**: Technical details of the GUI simulator and SVG generation
+- **Evaluation**: Performance analysis and comparison with baseline methods
+- **Results**: Statistical analysis of generation quality and system performance
+- **Future Work**: Proposed improvements and research directions
+
+## �📋 Dependencies
 
 ### Main Dependencies
 
